@@ -24,13 +24,17 @@ You need to have python installed.
 7. You can now use OBS Virtual Camera.
 
 # Features (Current version : v1.0.0)
-- You can use the IpWebcam app as a webcam for your computer
-- Panel with currently only a slider that let you zoom in-out
+- You can use the IpWebcam app as a webcam for your computer.
+- A configuration panel with currently only a slider that let you zoom in/out.
 
 # Planned features
-[] A better 
+[] A better UI for the configuration panel
+[] An executable (to be more user-friendly)
+[] Camera effects (maybe...)
+[] A connection window/main menu (to enter the ip and port)
 
 # Resources used
 Of course, I didn't figured that code out all by myself, thanks to smarter people on the Internet this project exists :
-[PyVirtualCam] (https://stackoverflow.com/questions/63475061/how-to-make-a-virtual-camera-with-python)
-[IpWebcamModule Code Example] (https://pypi.org/project/ipwebcam/)
+
+[PyVirtualCam] : (https://stackoverflow.com/questions/63475061/how-to-make-a-virtual-camera-with-python)
+[IpWebcamModule Code Example] : (https://pypi.org/project/ipwebcam/)
