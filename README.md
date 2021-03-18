@@ -29,12 +29,17 @@ You need to have python installed.
 
 # Planned features
 [] A better UI for the configuration panel
+
 [] An executable (to be more user-friendly)
+
 [] Camera effects (maybe...)
+
 [] A connection window/main menu (to enter the ip and port)
+
 
 # Resources used
 Of course, I didn't figured that code out all by myself, thanks to smarter people on the Internet this project exists :
 
-[PyVirtualCam] : (https://stackoverflow.com/questions/63475061/how-to-make-a-virtual-camera-with-python)
-[IpWebcamModule Code Example] : (https://pypi.org/project/ipwebcam/)
+[StackOverflow] : (https://stackoverflow.com/questions/63475061/how-to-make-a-virtual-camera-with-python)
+
+[IpWebcam Module Code Example] : (https://pypi.org/project/ipwebcam/)
